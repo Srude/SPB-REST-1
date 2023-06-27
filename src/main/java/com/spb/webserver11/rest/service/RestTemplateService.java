@@ -1,4 +1,4 @@
-package com.spb.rest.service;
+package com.spb.webserver11.rest.service;
 
 import com.spb.webserver11.data.dto.MemberDTO;
 import org.springframework.http.RequestEntity;
